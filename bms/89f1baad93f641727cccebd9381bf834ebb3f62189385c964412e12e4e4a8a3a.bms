@@ -1,0 +1,1717 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE Lapse Observer
+#TITLE Comatose state
+#ARTIST Spire
+#BPM 261
+#PLAYLEVEL 11
+#RANK 3
+#STAGEFILE 
+
+#WAV01 BGM - Marker #1.wav
+#WAV02 BGM - Marker #2.wav
+#WAV03 BGM - Marker #3.wav
+#WAV04 BGM - Marker #4.wav
+#WAV05 BGM - Marker #5.wav
+#WAV06 BGM - Marker #6.wav
+#WAV07 BGM - Marker #7.wav
+#WAV08 BGM - Marker #8.wav
+#WAV09 key - Marker #1.wav
+#WAV0A key - Marker #2.wav
+#WAV0B key - Marker #3.wav
+#WAV0C key - Marker #4.wav
+#WAV0D key - Marker #5.wav
+#WAV0E key - Marker #6.wav
+#WAV0F key - Marker #7.wav
+#WAV0G key - Marker #8.wav
+#WAV0H key - Marker #9.wav
+#WAV0I key - Marker #10.wav
+#WAV0J key - Marker #11.wav
+#WAV0K key - Marker #12.wav
+#WAV0L key - Marker #13.wav
+#WAV0M key - Marker #14.wav
+#WAV0N key - Marker #15.wav
+#WAV0O key - Marker #16.wav
+#WAV0P key - Marker #17.wav
+#WAV0Q key - Marker #18.wav
+#WAV0R key - Marker #19.wav
+#WAV0S key - Marker #20.wav
+#WAV0T key - Marker #21.wav
+#WAV0U key - Marker #22.wav
+#WAV0V key - Marker #23.wav
+#WAV0W key - Marker #24.wav
+#WAV0X key - Marker #25.wav
+#WAV0Y key - Marker #26.wav
+#WAV0Z key - Marker #27.wav
+#WAV10 key - Marker #28.wav
+#WAV11 key - Marker #29.wav
+#WAV12 key - Marker #30.wav
+#WAV13 key - Marker #31.wav
+#WAV14 key - Marker #32.wav
+#WAV15 key - Marker #33.wav
+#WAV16 key - Marker #34.wav
+#WAV17 key - Marker #35.wav
+#WAV18 key - Marker #36.wav
+#WAV19 key - Marker #37.wav
+#WAV1A key - Marker #38.wav
+#WAV1B key - Marker #39.wav
+#WAV1C key - Marker #40.wav
+#WAV1D key - Marker #41.wav
+#WAV1E key - Marker #42.wav
+#WAV1F key - Marker #43.wav
+#WAV1G key - Marker #44.wav
+#WAV1H key - Marker #45.wav
+#WAV1I key - Marker #46.wav
+#WAV1J key - Marker #47.wav
+#WAV1K key - Marker #48.wav
+#WAV1L key - Marker #49.wav
+#WAV1M key - Marker #50.wav
+#WAV1N key - Marker #51.wav
+#WAV1O key - Marker #52.wav
+#WAV1P key - Marker #53.wav
+#WAV1Q key - Marker #54.wav
+#WAV1R key - Marker #55.wav
+#WAV1S key - Marker #56.wav
+#WAV1T key - Marker #57.wav
+#WAV1U key - Marker #58.wav
+#WAV1V key - Marker #59.wav
+#WAV1W key - Marker #60.wav
+#WAV1X key - Marker #61.wav
+#WAV1Y key - Marker #62.wav
+#WAV1Z key - Marker #63.wav
+#WAV20 key - Marker #64.wav
+#WAV21 key - Marker #65.wav
+#WAV22 key - Marker #66.wav
+#WAV23 key - Marker #67.wav
+#WAV24 key - Marker #68.wav
+#WAV25 key - Marker #69.wav
+#WAV26 key - Marker #70.wav
+#WAV27 key - Marker #71.wav
+#WAV28 key - Marker #72.wav
+#WAV29 key - Marker #73.wav
+#WAV2A key - Marker #74.wav
+#WAV2B key - Marker #75.wav
+#WAV2C key - Marker #76.wav
+#WAV2D key - Marker #77.wav
+#WAV2E key - Marker #78.wav
+#WAV2F key - Marker #79.wav
+#WAV2G key - Marker #80.wav
+#WAV2H key - Marker #81.wav
+#WAV2I key - Marker #82.wav
+#WAV2J key - Marker #83.wav
+#WAV2K key - Marker #84.wav
+#WAV2L key - Marker #85.wav
+#WAV2M key - Marker #86.wav
+#WAV2N key - Marker #87.wav
+#WAV2O key - Marker #88.wav
+#WAV2P key - Marker #89.wav
+#WAV2Q key - Marker #90.wav
+#WAV2R key - Marker #91.wav
+#WAV2S key - Marker #92.wav
+#WAV2T key - Marker #93.wav
+#WAV2U key - Marker #94.wav
+#WAV2V key - Marker #95.wav
+#WAV2W key - Marker #96.wav
+#WAV2X key - Marker #97.wav
+#WAV2Y key - Marker #98.wav
+#WAV2Z key - Marker #99.wav
+#WAV30 key - Marker #100.wav
+#WAV31 key - Marker #101.wav
+#WAV32 key - Marker #102.wav
+#WAV33 key - Marker #103.wav
+#WAV34 key - Marker #104.wav
+#WAV35 key - Marker #105.wav
+#WAV36 key - Marker #106.wav
+#WAV37 key - Marker #107.wav
+#WAV38 key - Marker #108.wav
+#WAV39 key - Marker #109.wav
+#WAV3A key - Marker #110.wav
+#WAV3B key - Marker #111.wav
+#WAV3C key - Marker #112.wav
+#WAV3D key - Marker #113.wav
+#WAV3E key - Marker #114.wav
+#WAV3F key - Marker #115.wav
+#WAV3G key - Marker #116.wav
+#WAV3H key - Marker #117.wav
+#WAV3I key - Marker #118.wav
+#WAV3J key - Marker #119.wav
+#WAV3K key - Marker #120.wav
+#WAV3L key - Marker #121.wav
+#WAV3M key - Marker #122.wav
+#WAV3N key - Marker #123.wav
+#WAV3O key - Marker #124.wav
+#WAV3P key - Marker #125.wav
+#WAV3Q key - Marker #126.wav
+#WAV3R key - Marker #127.wav
+#WAV3S key - Marker #128.wav
+#WAV3T key - Marker #129.wav
+#WAV3U key - Marker #130.wav
+#WAV3V key - Marker #131.wav
+#WAV3W key - Marker #132.wav
+#WAV3X key - Marker #133.wav
+#WAV3Y key - Marker #134.wav
+#WAV3Z key - Marker #135.wav
+#WAV40 key - Marker #136.wav
+#WAV41 key - Marker #137.wav
+#WAV42 key - Marker #138.wav
+#WAV43 key - Marker #139.wav
+#WAV44 key - Marker #140.wav
+#WAV45 key - Marker #141.wav
+#WAV46 key - Marker #142.wav
+#WAV47 key - Marker #143.wav
+#WAV48 key - Marker #144.wav
+#WAV49 key - Marker #145.wav
+#WAV4A key - Marker #146.wav
+#WAV4B key - Marker #147.wav
+#WAV4C key - Marker #148.wav
+#WAV4D key - Marker #149.wav
+#WAV4E key - Marker #150.wav
+#WAV4F key - Marker #151.wav
+#WAV4G key - Marker #152.wav
+#WAV4H key - Marker #153.wav
+#WAV4I key - Marker #154.wav
+#WAV4J key - Marker #155.wav
+#WAV4K key - Marker #156.wav
+#WAV4L key - Marker #157.wav
+#WAV4M key - Marker #158.wav
+#WAV4N key - Marker #159.wav
+#WAV4O key - Marker #160.wav
+#WAV4P key - Marker #161.wav
+#WAV4Q key - Marker #162.wav
+#WAV4R key - Marker #163.wav
+#WAV4S key - Marker #164.wav
+#WAV4T key - Marker #165.wav
+#WAV4U key - Marker #166.wav
+#WAV4V key - Marker #167.wav
+#WAV4W key - Marker #168.wav
+#WAV4X key - Marker #169.wav
+#WAV4Y key - Marker #170.wav
+#WAV4Z key - Marker #171.wav
+#WAV50 key - Marker #172.wav
+#WAV51 key - Marker #173.wav
+#WAV52 key - Marker #174.wav
+#WAV53 key - Marker #175.wav
+#WAV54 key - Marker #176.wav
+#WAV55 key - Marker #177.wav
+#WAV56 key - Marker #178.wav
+#WAV57 key - Marker #179.wav
+#WAV58 key - Marker #180.wav
+#WAV59 key - Marker #181.wav
+#WAV5A key - Marker #182.wav
+#WAV5B key - Marker #183.wav
+#WAV5C key - Marker #184.wav
+#WAV5D key - Marker #185.wav
+#WAV5E key - Marker #186.wav
+#WAV5F key - Marker #187.wav
+#WAV5G key - Marker #188.wav
+#WAV5H key - Marker #189.wav
+#WAV5I key - Marker #190.wav
+#WAV5J key - Marker #191.wav
+#WAV5K key - Marker #192.wav
+#WAV5L key - Marker #193.wav
+#WAV5M key - Marker #194.wav
+#WAV5N key - Marker #195.wav
+#WAV5O key - Marker #196.wav
+#WAV5P key - Marker #197.wav
+#WAV5Q key - Marker #198.wav
+#WAV5R key - Marker #199.wav
+#WAV5S key - Marker #200.wav
+#WAV5T key - Marker #201.wav
+#WAV5U key - Marker #202.wav
+#WAV5V key - Marker #203.wav
+#WAV5W key - Marker #204.wav
+#WAV5X key - Marker #205.wav
+#WAV5Y key - Marker #206.wav
+#WAV5Z key - Marker #207.wav
+#WAV60 key - Marker #208.wav
+#WAV61 key - Marker #209.wav
+#WAV62 key - Marker #210.wav
+#WAV63 key - Marker #211.wav
+#WAV64 key - Marker #212.wav
+#WAV65 key - Marker #213.wav
+#WAV66 key - Marker #214.wav
+#WAV67 key - Marker #215.wav
+#WAV68 key - Marker #216.wav
+#WAV69 key - Marker #217.wav
+#WAV6A key - Marker #218.wav
+#WAV6B key - Marker #219.wav
+#WAV6C key - Marker #220.wav
+#WAV6D key - Marker #221.wav
+#WAV6E key - Marker #222.wav
+#WAV6F key - Marker #223.wav
+#WAV6G key - Marker #224.wav
+#WAV6H key - Marker #225.wav
+#WAV6I key - Marker #226.wav
+#WAV6J key - Marker #227.wav
+#WAV6K key - Marker #228.wav
+#WAV6L key - Marker #229.wav
+#WAV6M key - Marker #230.wav
+#WAV6N key - Marker #231.wav
+#WAV6O key - Marker #232.wav
+#WAV6P key - Marker #233.wav
+#WAV6Q key - Marker #234.wav
+#WAV6R key - Marker #235.wav
+#WAV6S key - Marker #236.wav
+#WAV6T key - Marker #237.wav
+#WAV6U key - Marker #238.wav
+#WAV6V key - Marker #239.wav
+#WAV6W key - Marker #240.wav
+#WAV6X key - Marker #241.wav
+#WAV6Y key - Marker #242.wav
+#WAV6Z key - Marker #243.wav
+#WAV70 key - Marker #244.wav
+#WAV71 key - Marker #245.wav
+#WAV72 key - Marker #246.wav
+#WAV73 key - Marker #247.wav
+#WAV74 key - Marker #248.wav
+#WAV75 key - Marker #249.wav
+#WAV76 key - Marker #250.wav
+#WAV77 key - Marker #251.wav
+#WAV78 key - Marker #252.wav
+#WAV79 key - Marker #253.wav
+#WAV7A key - Marker #254.wav
+#WAV7B key - Marker #255.wav
+#WAV7C key - Marker #256.wav
+#WAV7D key - Marker #257.wav
+#WAV7E key - Marker #258.wav
+#WAV7F key - Marker #259.wav
+#WAV7G key - Marker #260.wav
+#WAV7H key - Marker #261.wav
+#WAV7I key - Marker #262.wav
+#WAV7J key - Marker #263.wav
+#WAV7K key - Marker #264.wav
+#WAV7L key - Marker #265.wav
+#WAV7M key - Marker #266.wav
+#WAV7N key - Marker #267.wav
+#WAV7O key - Marker #268.wav
+#WAV7P key - Marker #269.wav
+#WAV7Q key - Marker #270.wav
+#WAV7R key - Marker #271.wav
+#WAV7S key - Marker #272.wav
+#WAV7T key - Marker #273.wav
+#WAV7U key - Marker #274.wav
+#WAV7V key - Marker #275.wav
+#WAV7W key - Marker #276.wav
+#WAV7X key - Marker #277.wav
+#WAV7Y key - Marker #278.wav
+#WAV7Z key - Marker #279.wav
+#WAV80 key - Marker #280.wav
+#WAV81 key - Marker #281.wav
+#WAV82 key - Marker #282.wav
+#WAV83 key - Marker #283.wav
+#WAV84 key - Marker #284.wav
+#WAV85 key - Marker #285.wav
+#WAV86 key - Marker #286.wav
+#WAV87 key - Marker #287.wav
+#WAV88 key - Marker #288.wav
+#WAV89 key - Marker #289.wav
+#WAV8A key - Marker #290.wav
+#WAV8B key - Marker #291.wav
+#WAV8C key - Marker #292.wav
+#WAV8D key - Marker #293.wav
+#WAV8E key - Marker #294.wav
+#WAV8F key - Marker #295.wav
+#WAV8G key - Marker #296.wav
+#WAV8H key - Marker #297.wav
+#WAV8I key - Marker #298.wav
+#WAV8J key - Marker #299.wav
+#WAV8K key - Marker #300.wav
+#WAV8L key - Marker #301.wav
+#WAV8M key - Marker #302.wav
+#WAV8N key - Marker #303.wav
+#WAV8O key - Marker #304.wav
+#WAV8P key - Marker #305.wav
+#WAV8Q key - Marker #306.wav
+#WAV8R key - Marker #307.wav
+#WAV8S key - Marker #308.wav
+#WAV8T key - Marker #309.wav
+#WAV8U key - Marker #310.wav
+#WAV8V key - Marker #311.wav
+#WAV8W key - Marker #312.wav
+#WAV8X key - Marker #313.wav
+#WAV8Y key - Marker #314.wav
+#WAV8Z key - Marker #315.wav
+#WAV90 key - Marker #316.wav
+#WAV91 key - Marker #317.wav
+#WAV92 key - Marker #318.wav
+#WAV93 key - Marker #319.wav
+#WAV94 key - Marker #320.wav
+#WAV95 key - Marker #321.wav
+#WAV96 key - Marker #322.wav
+#WAV97 key - Marker #323.wav
+#WAV98 key - Marker #324.wav
+#WAV99 key - Marker #325.wav
+#WAV9A key - Marker #326.wav
+#WAV9B key - Marker #327.wav
+#WAV9C key - Marker #328.wav
+#WAV9D key - Marker #329.wav
+#WAV9E key - Marker #330.wav
+#WAV9F key - Marker #331.wav
+#WAV9G key - Marker #332.wav
+#WAV9H key - Marker #333.wav
+#WAV9I key - Marker #334.wav
+#WAV9J key - Marker #335.wav
+#WAV9K key - Marker #336.wav
+#WAV9L key - Marker #337.wav
+#WAV9M key - Marker #338.wav
+#WAV9N key - Marker #339.wav
+#WAV9O key - Marker #340.wav
+#WAV9P key - Marker #341.wav
+#WAV9Q key - Marker #342.wav
+#WAV9R key - Marker #343.wav
+#WAV9S key - Marker #344.wav
+#WAV9T key - Marker #345.wav
+#WAV9U key - Marker #346.wav
+#WAV9V key - Marker #347.wav
+#WAV9W key - Marker #348.wav
+#WAV9X key - Marker #349.wav
+#WAV9Y key - Marker #350.wav
+#WAV9Z key - Marker #351.wav
+#WAVA0 key - Marker #352.wav
+#WAVA1 key - Marker #353.wav
+#WAVA2 key - Marker #354.wav
+#WAVA3 key - Marker #355.wav
+#WAVA4 key - Marker #356.wav
+#WAVA5 key - Marker #357.wav
+#WAVA6 key - Marker #358.wav
+#WAVA7 key - Marker #359.wav
+#WAVA8 key - Marker #360.wav
+#WAVA9 key - Marker #361.wav
+#WAVAA key - Marker #362.wav
+#WAVAB key - Marker #363.wav
+#WAVAC key - Marker #364.wav
+#WAVAD key - Marker #365.wav
+#WAVAE key - Marker #366.wav
+#WAVAF key - Marker #367.wav
+#WAVAG key - Marker #368.wav
+#WAVAH key - Marker #369.wav
+#WAVAI key - Marker #370.wav
+#WAVAJ key - Marker #371.wav
+#WAVAK key - Marker #372.wav
+#WAVAL key - Marker #373.wav
+#WAVAM key - Marker #374.wav
+#WAVAN key - Marker #375.wav
+#WAVAO key - Marker #376.wav
+#WAVAP key - Marker #377.wav
+#WAVAQ key - Marker #378.wav
+#WAVAR key - Marker #379.wav
+#WAVAS key - Marker #380.wav
+#WAVAT key - Marker #381.wav
+#WAVAU key - Marker #382.wav
+#WAVAV key - Marker #383.wav
+#WAVAW key - Marker #384.wav
+#WAVAX key - Marker #385.wav
+#WAVAY key - Marker #386.wav
+#WAVAZ key - Marker #387.wav
+#WAVB0 key - Marker #388.wav
+#WAVB1 key - Marker #389.wav
+#WAVB2 key - Marker #390.wav
+#WAVB3 key - Marker #391.wav
+#WAVB4 key - Marker #392.wav
+#WAVB5 key - Marker #393.wav
+#WAVB6 key - Marker #394.wav
+#WAVB7 key - Marker #395.wav
+#WAVB8 key - Marker #396.wav
+#WAVB9 key - Marker #397.wav
+#WAVBA key - Marker #398.wav
+#WAVBB key - Marker #399.wav
+#WAVBC key - Marker #400.wav
+#WAVBD key - Marker #401.wav
+#WAVBE key - Marker #402.wav
+#WAVBF key - Marker #403.wav
+#WAVBG key - Marker #404.wav
+#WAVBH key - Marker #405.wav
+#WAVBI key - Marker #406.wav
+#WAVBJ key - Marker #407.wav
+#WAVBK key - Marker #408.wav
+#WAVBL key - Marker #409.wav
+#WAVBM key - Marker #410.wav
+#WAVBN key - Marker #411.wav
+#WAVBO key - Marker #412.wav
+#WAVBP key - Marker #413.wav
+#WAVBQ key - Marker #414.wav
+#WAVBR key - Marker #415.wav
+#WAVBS key - Marker #416.wav
+#WAVBT key - Marker #417.wav
+#WAVBU key - Marker #418.wav
+#WAVBV key - Marker #419.wav
+#WAVBW key - Marker #420.wav
+#WAVBX key - Marker #421.wav
+#WAVBY key - Marker #422.wav
+#WAVBZ key - Marker #423.wav
+#WAVC0 key - Marker #424.wav
+#WAVC1 key - Marker #425.wav
+#WAVC2 key - Marker #426.wav
+#WAVC3 key - Marker #427.wav
+#WAVC4 key - Marker #428.wav
+#WAVC5 key - Marker #429.wav
+#WAVC6 key - Marker #430.wav
+#WAVC7 key - Marker #431.wav
+#WAVC8 key - Marker #432.wav
+#WAVC9 key - Marker #433.wav
+#WAVCA key - Marker #434.wav
+#WAVCB key - Marker #435.wav
+#WAVCC key - Marker #436.wav
+#WAVCD key - Marker #437.wav
+#WAVCE key - Marker #438.wav
+#WAVCF key - Marker #439.wav
+#WAVCG key - Marker #440.wav
+#WAVCH key - Marker #441.wav
+#WAVCI key - Marker #442.wav
+#WAVCJ key - Marker #443.wav
+#WAVCK key - Marker #444.wav
+#WAVCL key - Marker #445.wav
+#WAVCM key - Marker #446.wav
+#WAVCN key - Marker #447.wav
+#WAVCO key - Marker #448.wav
+#WAVCP key - Marker #449.wav
+#WAVCQ key - Marker #450.wav
+#WAVCR key - Marker #451.wav
+#WAVCS key - Marker #452.wav
+#WAVCT key - Marker #453.wav
+#WAVCU key - Marker #454.wav
+#WAVCV key - Marker #455.wav
+#WAVCW key - Marker #456.wav
+#WAVCX key - Marker #457.wav
+#WAVCY key - Marker #458.wav
+#WAVCZ key - Marker #459.wav
+#WAVD0 key - Marker #460.wav
+#WAVD1 key - Marker #461.wav
+#WAVD2 key - Marker #462.wav
+#WAVD3 key - Marker #463.wav
+#WAVD4 key - Marker #464.wav
+#WAVD5 key - Marker #465.wav
+#WAVD6 key - Marker #466.wav
+#WAVD7 key - Marker #467.wav
+#WAVD8 key - Marker #468.wav
+#WAVD9 key - Marker #469.wav
+#WAVDA key - Marker #470.wav
+#WAVDB key - Marker #471.wav
+#WAVDC key - Marker #472.wav
+#WAVDD key - Marker #473.wav
+#WAVDE key - Marker #474.wav
+#WAVDF key - Marker #475.wav
+#WAVDG key - Marker #476.wav
+#WAVDH key - Marker #477.wav
+#WAVDI key - Marker #478.wav
+#WAVDJ key - Marker #479.wav
+#WAVDK key - Marker #480.wav
+#WAVDL key - Marker #481.wav
+#WAVDM key - Marker #482.wav
+#WAVDN key - Marker #483.wav
+#WAVDO key - Marker #484.wav
+#WAVDP key - Marker #485.wav
+#WAVDQ key - Marker #486.wav
+#WAVDR key - Marker #487.wav
+#WAVDS key - Marker #488.wav
+#WAVDT key - Marker #489.wav
+#WAVDU key - Marker #490.wav
+#WAVDV key - Marker #491.wav
+#WAVDW key - Marker #492.wav
+#WAVDX key - Marker #493.wav
+#WAVDY key - Marker #494.wav
+#WAVDZ key - Marker #495.wav
+#WAVE0 key - Marker #496.wav
+#WAVE1 key - Marker #497.wav
+#WAVE2 key - Marker #498.wav
+#WAVE3 key - Marker #499.wav
+#WAVE4 key - Marker #500.wav
+#WAVE5 key - Marker #501.wav
+#WAVE6 key - Marker #502.wav
+#WAVE7 key - Marker #503.wav
+#WAVE8 key - Marker #504.wav
+#WAVE9 key - Marker #505.wav
+#WAVEA key - Marker #506.wav
+#WAVEB key - Marker #507.wav
+#WAVEC key - Marker #508.wav
+#WAVED key - Marker #509.wav
+#WAVEE key - Marker #510.wav
+#WAVEF key - Marker #511.wav
+#WAVEG key - Marker #512.wav
+#WAVEH key - Marker #513.wav
+#WAVEI key - Marker #514.wav
+#WAVEJ key - Marker #515.wav
+#WAVEK key - Marker #516.wav
+#WAVEL key - Marker #517.wav
+#WAVEM key - Marker #518.wav
+#WAVEN key - Marker #519.wav
+#WAVEO key - Marker #520.wav
+#WAVEP key - Marker #521.wav
+#WAVEQ key - Marker #522.wav
+#WAVER key - Marker #523.wav
+#WAVES key - Marker #524.wav
+#WAVET key - Marker #525.wav
+#WAVEU key - Marker #526.wav
+#WAVEV key - Marker #527.wav
+#WAVEW key - Marker #528.wav
+#WAVEX key - Marker #529.wav
+#WAVEY key - Marker #530.wav
+#WAVEZ key - Marker #531.wav
+#WAVF0 key - Marker #532.wav
+#WAVF1 key - Marker #533.wav
+#WAVF2 key - Marker #534.wav
+#WAVF3 key - Marker #535.wav
+#WAVF4 key - Marker #536.wav
+#WAVF5 key - Marker #537.wav
+#WAVF6 key - Marker #538.wav
+#WAVF7 key - Marker #539.wav
+#WAVF8 key - Marker #540.wav
+#WAVF9 key - Marker #541.wav
+#WAVFA key - Marker #542.wav
+#WAVFB key - Marker #543.wav
+#WAVFC key - Marker #544.wav
+#WAVFD key - Marker #545.wav
+#WAVFE key - Marker #546.wav
+#WAVFF key - Marker #547.wav
+#WAVFG key - Marker #548.wav
+#WAVFH key - Marker #549.wav
+#WAVFI key - Marker #550.wav
+#WAVFJ key - Marker #551.wav
+#WAVFK key - Marker #552.wav
+#WAVFL key - Marker #553.wav
+#WAVFM key - Marker #554.wav
+#WAVFN key - Marker #555.wav
+#WAVFO key - Marker #556.wav
+#WAVFQ key - Marker #558.wav
+#WAVFR key - Marker #559.wav
+#WAVFS key - Marker #560.wav
+#WAVFT key - Marker #561.wav
+#WAVFU key - Marker #562.wav
+#WAVFV key - Marker #563.wav
+#WAVFW key - Marker #564.wav
+#WAVFX key - Marker #565.wav
+#WAVFY key - Marker #566.wav
+#WAVFZ key - Marker #567.wav
+#WAVG0 key - Marker #568.wav
+#WAVG1 key - Marker #569.wav
+#WAVG2 key - Marker #570.wav
+#WAVG3 key - Marker #571.wav
+#WAVG4 key - Marker #572.wav
+#WAVG5 key - Marker #573.wav
+#WAVG6 key - Marker #574.wav
+#WAVG7 key - Marker #575.wav
+#WAVG8 key - Marker #576.wav
+#WAVG9 key - Marker #577.wav
+#WAVGA key - Marker #578.wav
+#WAVGB key - Marker #579.wav
+#WAVGC key - Marker #580.wav
+#WAVGD key - Marker #581.wav
+#WAVGE key - Marker #582.wav
+#WAVGF key - Marker #583.wav
+#WAVGG key - Marker #584.wav
+#WAVGH key - Marker #585.wav
+#WAVGI key - Marker #586.wav
+#WAVGJ key - Marker #587.wav
+#WAVGK key - Marker #588.wav
+#WAVGL key - Marker #589.wav
+#WAVGM key - Marker #590.wav
+#WAVGN key - Marker #591.wav
+#WAVGO key - Marker #592.wav
+#WAVGP key - Marker #593.wav
+#WAVGQ key - Marker #594.wav
+#WAVGR key - Marker #595.wav
+#WAVGS key - Marker #596.wav
+#WAVGT key - Marker #597.wav
+#WAVGU key - Marker #598.wav
+#WAVGV key - Marker #599.wav
+#WAVGW key - Marker #600.wav
+#WAVGX key - Marker #601.wav
+#WAVGY key - Marker #602.wav
+#WAVGZ key - Marker #603.wav
+#WAVH0 key - Marker #604.wav
+#WAVH1 key - Marker #605.wav
+#WAVH2 key - Marker #606.wav
+#WAVH3 key - Marker #607.wav
+#WAVH4 key - Marker #608.wav
+#WAVH5 key - Marker #609.wav
+#WAVH6 key - Marker #610.wav
+#WAVH7 key - Marker #611.wav
+#WAVH8 key - Marker #612.wav
+#WAVH9 key - Marker #613.wav
+#WAVHA key - Marker #614.wav
+#WAVHB key - Marker #615.wav
+#WAVHC key - Marker #616.wav
+#WAVHD key - Marker #617.wav
+#WAVHE key - Marker #618.wav
+#WAVHF key - Marker #619.wav
+#WAVHG key - Marker #620.wav
+#WAVHH key - Marker #621.wav
+#WAVHI key - Marker #622.wav
+#WAVHJ key - Marker #623.wav
+#WAVHK key - Marker #624.wav
+#WAVHL key - Marker #625.wav
+#WAVHM key - Marker #626.wav
+#WAVHN key - Marker #627.wav
+#WAVHO key - Marker #628.wav
+#WAVHP key - Marker #629.wav
+#WAVHQ key - Marker #630.wav
+#WAVHR key - Marker #631.wav
+#WAVHS key - Marker #632.wav
+#WAVHT key - Marker #633.wav
+#WAVHU key - Marker #634.wav
+#WAVHV key - Marker #635.wav
+#WAVHW key - Marker #636.wav
+#WAVHX key - Marker #637.wav
+#WAVHY key - Marker #638.wav
+#WAVHZ key - Marker #639.wav
+#WAVI0 key - Marker #640.wav
+#WAVI1 key - Marker #641.wav
+#WAVI2 key - Marker #642.wav
+#WAVI3 key - Marker #643.wav
+#WAVI4 key - Marker #644.wav
+#WAVI5 key - Marker #645.wav
+#WAVI6 key - Marker #646.wav
+#WAVI7 key - Marker #647.wav
+#WAVI8 key - Marker #648.wav
+#WAVI9 key - Marker #649.wav
+#WAVIA key - Marker #650.wav
+#WAVIB key - Marker #651.wav
+#WAVIC key - Marker #652.wav
+#WAVID key - Marker #653.wav
+#WAVIE key - Marker #654.wav
+#WAVIF key - Marker #655.wav
+#WAVIG key - Marker #656.wav
+#WAVIH key - Marker #657.wav
+#WAVII key - Marker #658.wav
+#WAVIJ key - Marker #659.wav
+#WAVIK key - Marker #660.wav
+#WAVIL key - Marker #661.wav
+#WAVIM key - Marker #662.wav
+#WAVIN key - Marker #663.wav
+#WAVIO key - Marker #664.wav
+#WAVIP key - Marker #665.wav
+#WAVIQ key - Marker #666.wav
+#WAVIR key - Marker #667.wav
+#WAVIS key - Marker #668.wav
+#WAVIT key - Marker #669.wav
+#WAVIU key - Marker #670.wav
+#WAVIV key - Marker #671.wav
+#WAVIW key - Marker #672.wav
+#WAVIX key - Marker #673.wav
+#WAVIY key - Marker #674.wav
+#WAVIZ key - Marker #675.wav
+#WAVJ0 key - Marker #676.wav
+#WAVJ1 key - Marker #677.wav
+#WAVJ2 key - Marker #678.wav
+#WAVJ3 key - Marker #679.wav
+#WAVJ4 key - Marker #680.wav
+#WAVJ5 key - Marker #681.wav
+#WAVJ6 key - Marker #682.wav
+#WAVJ7 key - Marker #683.wav
+#WAVJ8 key - Marker #684.wav
+#WAVJ9 key - Marker #685.wav
+#WAVJA key - Marker #686.wav
+#WAVJB key - Marker #687.wav
+#WAVJC key - Marker #688.wav
+#WAVJD key - Marker #689.wav
+#WAVJE key - Marker #690.wav
+#WAVJF key - Marker #691.wav
+#WAVJG key - Marker #692.wav
+#WAVJH key - Marker #693.wav
+#WAVJI key - Marker #694.wav
+#WAVJJ key - Marker #695.wav
+#WAVJK key - Marker #696.wav
+#WAVJL key - Marker #697.wav
+#WAVJM key - Marker #698.wav
+#WAVJN key - Marker #699.wav
+#WAVJO key - Marker #700.wav
+#WAVJP key - Marker #701.wav
+#WAVJQ key - Marker #702.wav
+#WAVJR key - Marker #703.wav
+#WAVJS key - Marker #704.wav
+#WAVJT key - Marker #705.wav
+#WAVJU key - Marker #706.wav
+#WAVJV key - Marker #707.wav
+#WAVJW key - Marker #708.wav
+#WAVJX key - Marker #709.wav
+#WAVJY key - Marker #710.wav
+#WAVJZ key - Marker #711.wav
+#WAVK0 key - Marker #712.wav
+#WAVK1 key - Marker #713.wav
+#WAVK2 key - Marker #714.wav
+#WAVK3 key - Marker #715.wav
+#WAVK4 key - Marker #716.wav
+#WAVK5 key - Marker #717.wav
+#WAVK6 key - Marker #718.wav
+#WAVK7 key - Marker #719.wav
+#WAVK8 key - Marker #720.wav
+#WAVK9 key - Marker #721.wav
+#WAVKA key - Marker #722.wav
+#WAVKB key - Marker #723.wav
+#WAVKC key - Marker #724.wav
+#WAVKD key - Marker #725.wav
+#WAVKE key - Marker #726.wav
+#WAVKF key - Marker #727.wav
+#WAVKG key - Marker #728.wav
+#WAVKH key - Marker #729.wav
+#WAVKI key - Marker #730.wav
+#WAVKJ key - Marker #731.wav
+#WAVKK key - Marker #732.wav
+#WAVKL key - Marker #733.wav
+#WAVKM key - Marker #734.wav
+#WAVKN key - Marker #735.wav
+#WAVKO key - Marker #736.wav
+#WAVKP key - Marker #737.wav
+#WAVKQ key - Marker #738.wav
+#WAVKR key - Marker #739.wav
+#WAVKS key - Marker #740.wav
+#WAVKT key - Marker #741.wav
+#WAVKU key - Marker #742.wav
+#WAVKV key - Marker #743.wav
+#WAVKW key - Marker #744.wav
+#WAVKX key - Marker #745.wav
+#WAVKY key - Marker #746.wav
+#WAVKZ key - Marker #747.wav
+#WAVL0 key - Marker #748.wav
+#WAVL1 key - Marker #749.wav
+#WAVL2 key - Marker #750.wav
+#WAVL3 key - Marker #751.wav
+#WAVL4 key - Marker #752.wav
+#WAVL5 key - Marker #753.wav
+#WAVL6 key - Marker #754.wav
+#WAVL7 key - Marker #755.wav
+#WAVL8 key - Marker #756.wav
+#WAVL9 key - Marker #757.wav
+#WAVLA key - Marker #758.wav
+#WAVLB key - Marker #759.wav
+#WAVLC key - Marker #760.wav
+#WAVLD key - Marker #761.wav
+#WAVLE key - Marker #762.wav
+#WAVLF key - Marker #763.wav
+#WAVLG key - Marker #764.wav
+#WAVLH key - Marker #765.wav
+#WAVLI key - Marker #766.wav
+#WAVLJ key - Marker #767.wav
+#WAVLK key - Marker #768.wav
+#WAVLL key - Marker #769.wav
+#WAVLM key - Marker #770.wav
+#WAVLN key - Marker #771.wav
+#WAVLO key - Marker #772.wav
+#WAVLP key - Marker #773.wav
+#WAVLQ key - Marker #774.wav
+#WAVLR key - Marker #775.wav
+#WAVLS key - Marker #776.wav
+#WAVLT key - Marker #777.wav
+#WAVLU key - Marker #778.wav
+#WAVLV key - Marker #779.wav
+#WAVLW key - Marker #780.wav
+#WAVLX key - Marker #781.wav
+#WAVLY key - Marker #782.wav
+#WAVLZ key - Marker #783.wav
+#WAVM0 key - Marker #784.wav
+#WAVM1 key - Marker #785.wav
+#WAVM2 key - Marker #786.wav
+#WAVM3 key - Marker #787.wav
+#WAVM4 key - Marker #788.wav
+#WAVM5 key - Marker #789.wav
+#WAVM6 key - Marker #790.wav
+#WAVM7 key - Marker #791.wav
+#WAVM8 key - Marker #792.wav
+#WAVM9 key - Marker #793.wav
+#WAVMA key - Marker #794.wav
+#WAVMB key - Marker #795.wav
+#WAVMC key - Marker #796.wav
+#WAVMD key - Marker #797.wav
+#WAVME key - Marker #798.wav
+#WAVMF key - Marker #799.wav
+#WAVMG key - Marker #800.wav
+#WAVMH key - Marker #801.wav
+#WAVMI key - Marker #802.wav
+#WAVMJ key - Marker #803.wav
+#WAVMK key - Marker #804.wav
+#WAVML key - Marker #805.wav
+#WAVMM key - Marker #806.wav
+#WAVMN key - Marker #807.wav
+#WAVMO key - Marker #808.wav
+#WAVMP key - Marker #809.wav
+#WAVMQ key - Marker #810.wav
+#WAVMR key - Marker #811.wav
+#WAVMS key - Marker #812.wav
+#WAVMT key - Marker #813.wav
+#WAVMU key - Marker #814.wav
+#WAVMV key - Marker #815.wav
+#WAVMW key - Marker #816.wav
+#WAVMX key - Marker #817.wav
+#WAVMY key - Marker #818.wav
+#WAVMZ key - Marker #819.wav
+#WAVN0 key - Marker #820.wav
+#WAVN1 key - Marker #821.wav
+#WAVN2 key - Marker #822.wav
+#WAVN3 key - Marker #823.wav
+#WAVN4 key - Marker #824.wav
+#WAVN5 key - Marker #825.wav
+#WAVN6 key - Marker #826.wav
+#WAVN7 key - Marker #827.wav
+#WAVN8 key - Marker #828.wav
+#WAVN9 key - Marker #829.wav
+#WAVNA key - Marker #830.wav
+#WAVNB key - Marker #831.wav
+#WAVNC key - Marker #832.wav
+#WAVND key - Marker #833.wav
+#WAVNE key - Marker #834.wav
+#WAVNF key - Marker #835.wav
+#WAVNG key - Marker #836.wav
+#WAVNH key - Marker #837.wav
+#WAVNI key - Marker #838.wav
+#WAVNJ key - Marker #839.wav
+#WAVNK key - Marker #840.wav
+#WAVNL key - Marker #841.wav
+#WAVNM key - Marker #842.wav
+#WAVNN key - Marker #843.wav
+#WAVNO key - Marker #844.wav
+#WAVNP key - Marker #845.wav
+#WAVNQ key - Marker #846.wav
+#WAVNR key - Marker #847.wav
+#WAVNS key - Marker #848.wav
+#WAVNT key - Marker #849.wav
+#WAVNU key - Marker #850.wav
+#WAVNV key - Marker #851.wav
+#WAVNW key - Marker #852.wav
+#WAVNX key - Marker #853.wav
+#WAVNY key - Marker #854.wav
+#WAVNZ key - Marker #855.wav
+#WAVO0 key - Marker #856.wav
+#WAVO1 key - Marker #857.wav
+#WAVO2 key - Marker #858.wav
+#WAVO3 key - Marker #859.wav
+#WAVO4 key - Marker #860.wav
+#WAVO5 key - Marker #861.wav
+#WAVO6 key - Marker #862.wav
+#WAVO7 key - Marker #863.wav
+#WAVO8 key - Marker #864.wav
+#WAVO9 key - Marker #865.wav
+#WAVOA key - Marker #866.wav
+#WAVOB key - Marker #867.wav
+#WAVOC key - Marker #868.wav
+#WAVOD key - Marker #869.wav
+#WAVOE key - Marker #870.wav
+#WAVOF key - Marker #871.wav
+#WAVOG key - Marker #872.wav
+#WAVOH key - Marker #873.wav
+#WAVOI key - Marker #874.wav
+#WAVOJ key - Marker #875.wav
+#WAVOK key - Marker #876.wav
+#WAVOL key - Marker #877.wav
+#WAVOM key - Marker #878.wav
+#WAVON key - Marker #879.wav
+#WAVOO key - Marker #880.wav
+#WAVOP key - Marker #881.wav
+#WAVOQ key - Marker #882.wav
+#WAVOR key - Marker #883.wav
+#WAVOS key - Marker #884.wav
+#WAVOT key - Marker #885.wav
+#WAVOU key - Marker #886.wav
+#WAVOV key - Marker #887.wav
+#WAVOW key - Marker #888.wav
+#WAVOX key - Marker #889.wav
+#WAVOY key - Marker #890.wav
+#WAVOZ key - Marker #891.wav
+#WAVP0 key - Marker #892.wav
+#WAVP1 key - Marker #893.wav
+#WAVP2 key - Marker #894.wav
+#WAVP3 key - Marker #895.wav
+#WAVP4 key - Marker #896.wav
+#WAVP5 key - Marker #897.wav
+#WAVP6 key - Marker #898.wav
+#WAVP7 key - Marker #899.wav
+#WAVP8 key - Marker #900.wav
+#WAVP9 key - Marker #901.wav
+#WAVPA key - Marker #902.wav
+#WAVPB key - Marker #903.wav
+#WAVPC key - Marker #904.wav
+#WAVPD key - Marker #905.wav
+#WAVPE key - Marker #906.wav
+#WAVPF key - Marker #907.wav
+#WAVPG key - Marker #908.wav
+#WAVPH key - Marker #909.wav
+#WAVPI key - Marker #910.wav
+#WAVPJ key - Marker #911.wav
+#WAVPK key - Marker #912.wav
+#WAVPL key - Marker #913.wav
+#WAVPM key - Marker #914.wav
+#WAVPN key - Marker #915.wav
+#WAVPO key - Marker #916.wav
+#WAVPP key - Marker #917.wav
+#WAVPQ key - Marker #918.wav
+#WAVPR key - Marker #919.wav
+#WAVPS key - Marker #920.wav
+#WAVPT key - Marker #921.wav
+#WAVPU key - Marker #922.wav
+#WAVPV key - Marker #923.wav
+#WAVPW key - Marker #924.wav
+#WAVPX key - Marker #925.wav
+#WAVPY key - Marker #926.wav
+#WAVPZ key - Marker #927.wav
+#WAVQ0 key - Marker #928.wav
+#WAVQ1 key - Marker #929.wav
+#WAVQ2 key - Marker #930.wav
+#WAVQ3 key - Marker #931.wav
+#WAVQ4 key - Marker #932.wav
+#WAVQ5 key - Marker #933.wav
+
+#BMP01 title_cs.bmp
+#BMP02 BGA.avi
+
+
+
+
+#BACKBMP title_cs.bmp
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00004:01
+
+
+#00201:01
+#00204:02
+
+
+
+
+
+
+
+
+#01011:090A000000000000
+
+
+
+#01351:000B
+
+#01451:000B
+#01453:000C
+
+#01553:000C
+
+
+#01711:0D00000000000000000000000000000P
+#01712:00000000000000000000000L00000000
+#01713:000E0000000K000O
+#01714:0000000000000000000J000000000000
+#01715:000000000F0000000I000000000N0000
+#01718:000000000000000H0000000000000000
+#01719:0000000G00000M00
+
+#01801:02
+#01813:000R0000
+#01814:000000000000000V
+#01815:0Q00000S00000000
+#01818:0000000U
+#01819:00000000000T0000
+
+#01911:0014
+#01912:0W0Y000000001800
+#01913:00000000000000000015000000000000
+#01914:000X000Z000000000000000000001900
+#01915:00000000001100130000160000000000
+#01919:00000000100012000000001700000000
+
+#02011:1A001C1D001F0000
+#02013:0000001G
+#02015:001B00001E000000
+#02019:000000000000001H
+
+#02151:0000001L
+#02153:00001K1K
+#02155:001J1J00
+#02159:1I1I0000
+
+#02211:001Q
+#02213:0000001P00000000
+#02214:001O0000
+#02218:001N000000000000
+#02219:1M00001R
+#02251:1L
+
+#02311:1S
+#02312:0000001W
+#02313:00001T00001V001X
+#02315:0000001U00000000
+
+#02411:0022
+#02413:0000000000230000
+#02415:00000024
+#02418:1Y1Z202100000000
+#02419:0000000000000025
+
+#02511:26
+#02512:002700002A000000000000002I000000
+#02513:00002800002B00000000000000000000
+#02514:0000002900002C0000000000002J002L
+#02515:000000000000002D002F002H00000000
+#02518:000000000000002K
+#02519:000000002E2G0000
+
+#02611:2M
+#02612:002N2P0000000000
+#02613:0000002W
+#02614:0000002O002Q0000002T002V00000000
+#02615:000000000000002X
+#02618:000000002S2U0000
+#02619:0000002R00000000
+
+#02756:2Y
+
+#02851:2Z2Z
+#02856:2Y
+#02859:0030
+
+#02913:0032
+#02914:00000034
+#02915:0000000000330000
+#02918:0000000000000035
+#02952:3131
+#02959:30
+
+#03011:0000003C
+#03013:00390000
+#03015:0037003A00000000
+#03018:00000038000000000000000000000000
+#03019:363B
+
+#03111:00000000003I0000
+#03113:003F3H3J
+#03115:003E003G0000003K
+#03119:3D
+
+#03211:0000003O00000000
+#03212:003P
+#03213:003N0000
+#03214:00000000003Q003S
+#03215:003M000000000000
+#03218:0000003R
+#03219:3L
+
+#03312:000000000000003X0000000000000000
+#03313:3T00000000000044
+#03314:003Y
+#03315:00003U00000000000000004100430000
+#03318:0000000000003W00003Z000000000000
+#03319:00003V00003U4200
+
+#03401:03
+#03411:45
+#03412:000000000000004E
+#03413:0046000000000000
+#03414:0000000000000049004B00000000004F
+#03415:0047004D
+#03418:000000484A000000
+#03419:00000000004C0000
+
+#03512:00000000004L0000
+#03513:4G00004J00000000
+#03514:00000000000000000000004M004O004Q
+#03515:004H00004K000000
+#03518:0000000000004N4P
+#03519:004I0000
+
+#03611:004T0000
+#03612:0000004U4W000000
+#03613:004S0000004Y0000
+#03614:000000000000004V004X000000000000
+#03615:4R00004Z
+#03619:0000000000000050
+
+#03711:00530000
+#03713:0055
+#03715:5152005400560000
+#03719:00000057
+
+#03811:58
+#03813:0000005F
+#03814:0000005A5C00005G
+#03815:00005900005E0000
+#03818:000000000000005B005D00000000005H
+
+#03912:00000000005N5P00
+#03913:0000005L00000000
+#03914:00000000000000000000005O005Q005S
+#03915:5I5J00005M000000
+#03918:000000000000005R
+#03919:005K0000
+
+#04011:005V0000
+#04012:0000005W5Y000000
+#04013:005U000000600000
+#04014:000000000000005X005Z000000000000
+#04015:5T000061
+#04019:0000000000000062
+
+#04111:00656700
+#04113:0000006600680000
+#04115:6364000000000000
+#04156:00000069
+
+#04211:6A6B000000000000
+#04213:006C0000
+#04214:0000006D6F00006J
+#04215:0000006I
+#04218:000000000000006E006G00000000006K
+#04219:00000000006H0000
+#04256:69
+
+#04311:006P
+#04312:0000000000006S6U
+#04313:6L6N0000
+#04314:00000000000000000000006R006T006V
+#04315:006M006O00000000
+#04318:00000000006Q0000
+
+#04411:00000074
+#04412:00000000000000700072000000000000
+#04413:0000000000730075
+#04414:0000006Z71000000
+#04415:6W6X000000000000
+#04419:006Y0000
+
+#04511:00787A00
+#04515:76770079007B0000
+#04553:0000007C
+
+#04611:7D7E0000007K0000
+#04613:007F007L
+#04614:000000000000007H007J000000007M00
+#04618:0000000000007G007I0000000000007N
+#04653:7C
+
+#04713:007Q7S00
+#04715:0000007R00000000
+#04716:0000007U
+#04719:7O7P0000007T0000
+
+#04811:7V7W000000000000
+#04813:00007X0000820084
+#04814:0000007Y80000000
+#04815:00000083
+#04818:000000000000007Z0081000000000000
+
+#04951:8500008500000000
+#04954:0000008600008600
+#04959:00000087
+
+#05001:04
+#05011:00000000008F0000
+#05013:8800008G
+#05014:000000000000008C008E000000000000
+#05015:008900000000008H
+#05018:0000008B8D000000
+#05019:008A0000
+#05059:87
+
+#05111:0000008L000000000000000000000000
+#05112:008K000000000000
+#05113:008J00008M00000000008R0000008T00
+#05114:8I00008N00000000
+#05115:000000000000008O000000008S000000
+#05118:008P
+#05119:0000000000000000008Q000000000000
+
+#05211:8U
+#05212:008V000000000000
+#05213:008W0090
+#05214:00000000008Z0000
+#05215:0000008X00000091
+#05218:008Y
+
+#05313:00949600
+#05315:0093000000000000
+#05316:00000098
+#05319:9200009500970000
+
+#05411:9900009C00000000
+#05412:0000009F
+#05413:009A00009D000000
+#05414:000000000000009G
+#05415:00009B00009E0000
+
+#05511:0000009K00000000
+#05513:0000009M
+#05514:009I000000000000
+#05515:000000000000009N
+#05516:009L
+#05518:9H9J0000
+
+#05611:009U
+#05612:00000000009V0000
+#05613:00000000000000000000009W00000000
+#05614:0000009Q009S00000000000000000000
+#05615:0000009X
+#05618:009P9R000000009Y
+#05619:9O00000000009T00000000000000009Z
+
+#05713:00A1000000A50000
+#05715:A0A2A400
+#05716:000000A6
+#05719:000000A300000000
+
+#05813:00A8
+#05815:0000000000A900AB
+#05819:000000AA
+#05856:A7A7
+
+#05911:0000000000AG0000000000AM00000000
+#05912:00AF00AN
+#05913:000000AH00AL0000
+#05914:000000AE000000000000000000AO00AQ
+#05915:00000000000000AI00AK000000000000
+#05918:00AD0000000000AP
+#05919:ACAJ
+
+#06011:00AV
+#06012:00AT0000
+#06014:000000AU00000000
+#06015:00AS000000000000
+#06019:AR0000AW
+
+#06113:0000AY0000B10000
+#06115:AX0000AZ00000000
+#06116:000000B2
+#06119:00B0
+
+#06213:00B40000
+#06214:0000000000B70000
+#06215:B30000B500000000
+#06218:00B6
+#06219:000000B8
+
+#06311:000000BC000000000000000000000000
+#06312:000000BG
+#06313:00BBBD00000000BH
+#06314:000000BE00000000
+#06315:00BA0000000000000000BF0000000000
+#06319:B9
+
+#06413:0000BK00000000BP
+#06414:000000BO
+#06415:BI0000BL00000000
+#06418:0000000000BN0000
+#06419:00BJ0000BM000000
+
+#06511:BQ0000BTBU000000
+#06513:00BS0000
+#06515:00BR000000BV0000
+#06551:000000BW
+
+#06601:05
+#06612:00C1
+#06613:BX000000000000C4
+#06614:000000C000C20000
+#06615:00BY00000000C300
+#06619:00BZ0000
+#06651:BW
+
+#06711:000000CA00000000
+#06712:00000000000000CB0000000000000000
+#06713:00C9CC00
+#06714:000000C80000000000CD000000000000
+#06715:0000C70000000000000000CF00000000
+#06718:00C60000000000000000CE0000000000
+#06719:C50000CG
+
+#06811:000000CK00000000
+#06813:CHCL
+#06814:00000000000000CO
+#06815:00CI000000CM0000
+#06818:000000CN
+#06819:00CJ0000
+
+#06911:0000CRCS00000000
+#06913:CPCQ000000000000
+#06916:0000CTCU
+
+#07012:CVCX000000000000
+#07013:000000D5
+#07014:00CW00CY000000D100D3000000000000
+#07015:0000CZ0000D40000
+#07018:000000D0D2000000
+#07019:00000000000000D6
+
+#07113:0000D8D900000000
+#07115:D7
+#07116:000000DB
+#07118:00DA
+
+#07251:DC0000DC00000000
+#07252:000000DD0000DD00
+#07253:000000DE
+
+#07311:00DG000000000000DN00000000000000
+#07312:000000DI000000000000000000000000
+#07313:0000000000DK000000000000DO000000
+#07314:000000DL00000000
+#07315:00000000DJ0000DM0000000000000000
+#07318:00DH000000000000
+#07319:DF
+#07353:DE
+
+#07411:DP
+#07412:00DQ000000000000
+#07413:00000000000000DU
+#07414:00DS
+#07415:000000DR0000DT00
+
+#07514:0000000000E000E20000000000000000
+#07515:00DW00DY000000000000000000000000
+#07516:0000E3E4
+#07518:0000DZE100000000
+#07519:DVDX000000000000
+
+#07615:00000000000000E8
+#07619:000000E7
+#07653:E50000E500000000
+#07655:000000E60000E600
+
+#07713:000000EEEF000000
+#07714:E9EB000000000000
+#07715:00ED00EH
+#07718:00EA00EC000000000000000000000000
+#07719:0000000000EG0000
+
+#07815:00EJ0000
+#07819:000000EK00000000
+#07853:EIEI0000
+#07855:000000EM
+#07858:0000ELEL
+
+#07912:00000000000000ET
+#07913:EN
+#07914:000000ES
+#07915:00EO000000ER0000
+#07918:000000EQ00000000
+#07919:00EP0000
+#07955:EM
+
+#08013:000000EW00000000
+#08014:00000000000000F0
+#08015:00EVEX00
+#08018:000000EZ
+#08019:EU00000000EY0000
+
+#08115:000000F200000000
+#08156:F10000F100000000
+
+#08201:06
+#08212:000000F600000000
+#08213:00F40000F7000000
+#08214:00F50000
+#08215:F300000000F800FA
+#08219:000000F9
+
+#08312:000000000000FEFE
+#08316:FBFCFD00
+
+#08411:00FL
+#08413:FGFI00000000FM00
+#08415:00FH00FJ000000000000000000000000
+#08416:00FK0000
+
+#08552:FNFN
+#08555:00FO
+
+#08655:FO
+#08656:FQ
+
+#08756:00000000000000FQ
+
+#08856:FR
+
+
+#09001:07
+#09011:00000000000000FZ
+#09013:FS00000000FX0000
+#09014:00FW
+#09015:00FT00000000FY00
+#09018:000000FV00000000
+#09019:00FU0000
+#09056:FR
+
+#09111:G0
+#09113:00G100G300000000
+#09114:00G4
+#09115:0000G200000000G7
+#09118:0000000000G50000
+#09119:000000G6
+
+#09211:00G9000000000000
+#09213:00GA0000
+#09215:000000GB00GD00GF
+#09219:G800GCGE
+
+#09311:000000GJ00GL0000
+#09313:GGGH0000GK000000
+#09314:00000000000000GN
+#09315:00GI0000
+#09318:000000GM
+
+#09411:000000GU
+#09412:00000000000000GV
+#09413:0000GQ0000GT0000
+#09414:000000GR00000000
+#09418:00GS
+#09419:GOGP000000000000
+
+#09511:000000GZ00000000
+#09513:GWGX000000H10000
+#09515:00GYH000
+#09518:000000000000H2H3
+
+#09611:000000HA
+#09613:0000H60000H900HB
+#09614:000000H700000000
+#09618:00H8
+#09619:H4H5000000000000
+
+#09713:000000HF00HH0000
+#09715:0000HE00HG0000HJ
+#09719:HCHD00000000HI00
+
+#09811:HKHL000000000000
+#09812:000000HN00000000
+#09813:00HM0000
+#09814:00HO
+#09815:0000000000HP0000
+#09818:00000000000000HR
+#09819:000000HQ
+
+#09911:0000000000HX0000
+#09912:0000000000000000000000HY00000000
+#09913:000000000000HV0000000000000000I2
+#09914:00000000000000I1
+#09915:HS00HT00000000000000000000I00000
+#09918:000000HZ
+#09919:00HUHW00
+
+#10012:00I7
+#10013:0000000000I80000
+#10014:000000I600000000
+#10015:0000I500000000IA
+#10019:I3I400000000I900
+
+#10111:IBIC00IE00IG0000
+#10115:00IDIF00
+#10156:000000IH
+
+#10212:00IM
+#10213:0000000000IN0000
+#10214:000000IL00000000
+#10215:00IK00IO
+#10218:00000000000000IP
+#10219:IIIJ000000000000
+#10256:IH
+
+#10311:000000IT00000000
+#10313:00ISIU00
+#10314:00000000000000IX
+#10315:IQIR000000IV0000
+#10318:000000IW
+
+#10411:00J00000
+#10412:000000J100000000
+#10414:00J2
+#10415:0000000000J30000
+#10419:IYIZ00000000J400
+#10453:00000000000000J5
+
+
+#10601:08
+#10611:0000000000JB0000
+#10612:000000000000JCJE
+#10613:00J8JA00
+#10614:00000000000000000000000000JD00JF
+#10615:00J700J900000000
+#10619:J6
+#10653:J5
+
+#10713:00JI0000
+#10715:JG0000JJ00000000
+#10719:00JH000000000000
+#10752:0000JKJK
+#10758:000000JL
+
+#10853:000000JN0000JN00
+#10855:JM0000JM00000000
+#10858:JL
+#10859:000000JO
+
+#10912:000000JR00000000
+#10913:00JS
+#10914:00JQ0000
+#10915:JP
+#10955:000000JT
+#10959:JO
+
+#11011:00JW0000
+#11013:000000JX00000000
+#11014:0000000000000000000000K0000000K3
+#11015:00JV0000JY000000
+#11018:0000000000JZ00K2
+#11019:JU0000K1
+#11055:JT
+
+#11112:K4
+#11113:00K5000000000000KC00000000000000
+#11114:0000K600000000KB0000KE0000000000
+#11115:000000K700K9000000KD00000000KH00
+#11118:000000000000KA00000000KF00000000
+#11119:00K800KG
+
+#11211:KI00KKKL00000000
+#11213:00KJ000000000000
+#11214:00000000000000000000000000KP00KR
+#11215:00KM
+#11218:000000000000KOKQ
+#11219:0000000000KN0000
+
+#11311:00KT000000000000
+#11313:KSKU0000
+#11319:000000KV00000000
+#11356:000000KX
+#11358:0000KWKW
+
+#11411:KYKZ000000000000
+#11413:0000L00000L30000
+#11415:000000L1L2000000
+#11418:000000L4
+#11456:KX
+
+#11511:0000000000L90000
+#11513:000000L70000LA00
+#11514:00000000000000000000000000LB0000
+#11515:0000L600L80000LC
+#11518:000000000000000000000000000000LD
+#11519:L5
+
+#11611:000000LJ
+#11613:LE000000LH0000LK
+#11615:0000000000LI0000
+#11619:0000LFLG00000000
+
+#11711:LL00000000LQ0000
+#11713:00LP
+#11715:00LM00LO00000000
+#11716:000000LR
+#11719:00LN0000
+
+#11811:0000000000000000000000M100000000
+#11812:0000000000M00000
+#11813:LS0000000000000000LZ000000000000
+#11814:00LT000000000000LY00000000000000
+#11815:00LU00LX00000000
+#11818:000000LV000000000000000000000000
+#11819:00LW0000
+#11852:000000M2
+
+#11951:000000M5
+#11952:M2
+#11954:000000M40000M400
+#11959:M30000M300000000
+
+#12011:000000MA
+#12014:00000000000000MB
+#12015:000000M800000000
+#12018:00M7000000000000
+#12019:M6
+#12051:M5
+#12052:0000M9M9
+
+#12153:00MD
+#12159:MCMC
+
+#12212:00MI00MQ
+#12213:0000000000MJ0000000000MP00MR0000
+#12214:000000MH0000MK000000MO00000000MT
+#12215:00MF0000000000ML00MN00000000MS00
+#12218:00MG0000MM000000
+#12219:ME
+#12253:MD
+
+#12311:MUMV000000000000
+#12313:00MWMY00
+#12315:000000MX00000000
+#12316:000000N0
+#12319:0000000000MZ0000
+
+#12411:000000N5
+#12412:00000000000000000000000000N60000
+#12413:0000000000N400N7
+#12414:000000000000000000000000000000N8
+#12415:000000N2N3000000
+#12419:N1
+
+#12512:00000000NBND0000
+#12513:00NA0000
+#12514:000000000000000000NC00NE00000000
+#12515:N9
+#12519:000000NF
+
+#12611:00NI0000
+#12613:00NH0000NKNM0000
+#12614:000000000000000000NL00NN00000000
+#12615:NG0000NJ00000000
+#12619:000000NO
+
+#12711:00000000NVNX0000
+#12712:000000NR00NT000000NW00NY00000000
+#12713:00NQNS0000000000
+#12715:NP0000NZ
+#12718:000000000000000000000000000000O1
+#12719:000000NU000000O0
+
+#12811:00O40000
+#12813:00O300000000O700
+#12815:O20000O500000000
+#12819:00O6
+
+#12912:00000000OCOD0000
+#12913:O8O9000000000000
+#12915:0000OAOB00000000
+#12918:000000OE
+
+#13011:00OH00ON
+#13013:0000OG000000000000OK00OM00000000
+#13014:00000000OJOL0000
+#13015:OF0000OI00000000
+
+#13111:000000000000P0P2
+#13112:0000000000000000OW00OY0000P100P3
+#13113:OO00OQ000000000000OX00OZ00000000
+#13114:0000000000OT00OV0000000000000000
+#13115:00OP00OR000000000000000000000000
+#13118:0000OSOU00000000
+
+#13215:0000P5P600000000
+#13219:P4
+#13251:000000P8
+#13253:0000P7P7
+
+#13313:0000PB0000PE0000
+#13314:00PD
+#13315:00PA00PC0000PF00
+#13319:P9
+#13351:P8
+
+#13411:PG0000PJPK00PM00
+#13413:00PH0000000000PN
+#13415:0000PI0000PL0000
+
+#13513:000000PS
+#13514:00PR
+#13515:PO0000PQ00000000
+#13518:00PP000000000000
+
+#13611:000000PW00000000
+#13612:00PX
+#13613:00000000PV00000000PY000000000000
+#13614:00000000000000000000PZ00000000Q4
+#13615:PT00PU0000000000000000Q00000Q300
+#13618:00000000000000000000000000Q20000
+#13619:000000Q1
+
+#13756:Q5
+
+#13856:Q5
+
